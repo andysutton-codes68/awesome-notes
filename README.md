@@ -1,0 +1,2 @@
+# awesome-notes
+Side project
